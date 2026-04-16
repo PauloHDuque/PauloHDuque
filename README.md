@@ -44,8 +44,8 @@
 
 <br/>
 <div align="center">
-<!-- <img height="180em"src="https://github-readme-stats.vercel.app/api?username=paulohduque&show_icons=true&theme=dracula"/> -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohduque&layout=compact&theme=dracula"/> -->
+<!-- <img height="180em"src="https://github-readme-stats.vercel.app/api?username=PauloHDuque&show_icons=true&theme=tokyonight&locale=pt-br"/> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDuque&layout=compact&theme=tokyonight&locale=pt-br"/> -->
 </div>
 <hr/>
 
