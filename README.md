@@ -2,22 +2,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Paulo+Henrique!;" />
 </h1>
 
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">Full Stack Developer | Estudante de Engenharia de Software 💻</h3>
 
 <br/>
 
-<!--<div align="center">
+<div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 Atualmente desenvolvendo **sistemas de gestão, PDVs offline e soluções financeiras.**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 Focando meus estudos em **Docker, React Native, arquitetura de software e integrações complexas.**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Me pergunte sobre **Node.js, React, TypeScript e criação de sistemas do zero.**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Curiosidade: **Quando não estou codando, você provavelmente vai me encontrar pilotando drones esportivos/fotográficos ou praticando arquearia.**
 
- </div> -->
+ </div>
  
+<br/>
+
 <div align="center"> 
   <a href="mailto:phbduque@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -25,36 +27,40 @@
   <a href="https://www.linkedin.com/in/paulohduque/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-<!--   </a> -->
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,mysql,php" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,mysql,php,sqlite" /><br>
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,bootstrap,html,css,vscode,github,figma,git,laravel,jquery,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=react,next,reactnative,bootstrap,html,css,vscode,github,git,docker,electron" />
 </div>
-
 
 <br/>
+
 <div align="center">
-<!-- <img height="180em"src="https://github-readme-stats.vercel.app/api?username=PauloHDuque&show_icons=true&theme=tokyonight&locale=pt-br"/> -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDuque&layout=compact&theme=tokyonight&locale=pt-br"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHDuque&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDuque&layout=compact&theme=tokyonight&locale=pt-br"/>
 </div>
+
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🚀 Projetos em Destaque</h2>
+  <!-- Sugestão: adicione links para repositórios ou landing pages dos seus projetos aqui com uma breve descrição -->
+  <p>Construo soluções completas para problemas reais, variando desde PDVs desktop até plataformas robustas de gestão e métricas.</p>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PauloHDuque/PauloHDuque/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
-
-<hr/>
