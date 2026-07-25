@@ -8,13 +8,13 @@
 
 <div align="center">
  
- 🔭 Atualmente desenvolvendo **sistemas de gestão, PDVs offline e soluções financeiras.**
+ 🔭 Atualmente desenvolvendo **sistemas de gestão, PDVs offline/online e soluções financeiras.**
  
  🌱 Focando meus estudos em **Docker, React Native, arquitetura de software e integrações complexas.**
 
  💬 Me pergunte sobre **Node.js, React, TypeScript e criação de sistemas do zero.**
 
- ⚡ Curiosidade: **Quando não estou codando, você provavelmente vai me encontrar pilotando drones esportivos/fotográficos ou praticando arquearia.**
+ ⚡ Curiosidade: **Quando não estou codando, você provavelmente vai me encontrar pilotando drones ou praticando arquearia.**
 
  </div>
  
