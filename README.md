@@ -8,12 +8,9 @@
 
 <div align="center">
  
- 🔭 Atualmente desenvolvendo **sistemas de gestão, PDVs offline/online e soluções financeiras.**
- 
- 🌱 Focando meus estudos em **Docker, React Native, arquitetura de software e integrações complexas.**
-
- 💬 Me pergunte sobre **Node.js, React, TypeScript e criação de sistemas do zero.**
-
+ 🔭 Atualmente desenvolvendo **sistemas de gestão, PDVs offline/online e soluções financeiras.** <br/>
+ 🌱 Focando meus estudos em **Docker, React Native, arquitetura de software e integrações complexas.** <br/>
+ 💬 Me pergunte sobre **Node.js, React, TypeScript e criação de sistemas do zero.** <br/>
  ⚡ Curiosidade: **Quando não estou codando, você provavelmente vai me encontrar pilotando drones ou praticando arquearia.**
 
  </div>
@@ -37,15 +34,15 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,mysql,php,sqlite" /><br>
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,reactnative,bootstrap,html,css,vscode,github,git,docker,electron" />
+    <img src="https://skillicons.dev/icons?i=react,next,bootstrap,html,css,vscode,github,git,docker,electron" />
 </div>
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHDuque&show_icons=true&theme=tokyonight&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDuque&layout=compact&theme=tokyonight&locale=pt-br"/>
-</div>
+</div> -->
 
 <hr/>
 
@@ -59,7 +56,6 @@
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PauloHDuque/PauloHDuque/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
