@@ -1,62 +1,56 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Paulo+Henrique!;" />
-</h1>
+# PauloHDuque
 
-<h3 align="center">Full Stack Developer | Estudante de Engenharia de Software 💻</h3>
+> Recruiter-friendly proof and contact path.
 
-<br/>
+**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
-<div align="center">
- 
- 🔭 Atualmente desenvolvendo **sistemas de gestão, PDVs offline/online e soluções financeiras.** <br/>
- 🌱 Focando meus estudos em **Docker, React Native, arquitetura de software e integrações complexas.** <br/>
- 💬 Me pergunte sobre **Node.js, React, TypeScript e criação de sistemas do zero.** <br/>
- ⚡ Curiosidade: **Quando não estou codando, você provavelmente vai me encontrar pilotando drones ou praticando arquearia.**
+## Header
+Hi, I'm **PauloHDuque**. This README is tuned for **get hired** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=PauloHDuque&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=PauloHDuque&theme=github-dark" alt="PauloHDuque hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=PauloHDuque&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=PauloHDuque&theme=github-dark" alt="PauloHDuque about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=PauloHDuque&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=PauloHDuque&theme=github-dark" alt="PauloHDuque stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=PauloHDuque&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=PauloHDuque&theme=github-dark" alt="PauloHDuque stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=PauloHDuque&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=PauloHDuque&theme=github-dark" alt="PauloHDuque projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=PauloHDuque&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=PauloHDuque&theme=github-dark" alt="PauloHDuque social section" />
+  </picture>
+</p>
 
- </div>
- 
-<br/>
-
-<div align="center"> 
-  <a href="mailto:phbduque@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/paulohduque/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,mysql,php,sqlite" /><br>
-</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,bootstrap,html,css,vscode,github,git,docker,electron" />
-</div>
-
-<br/>
-
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHDuque&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDuque&layout=compact&theme=tokyonight&locale=pt-br"/>
-</div> -->
-
-<hr/>
-
-<div align="center">
-  <h2>🚀 Projetos em Destaque</h2>
-  <!-- Sugestão: adicione links para repositórios ou landing pages dos seus projetos aqui com uma breve descrição -->
-  <p>Construo soluções completas para problemas reais, variando desde PDVs desktop até plataformas robustas de gestão e métricas.</p>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PauloHDuque/PauloHDuque/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/>
-</div>
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
